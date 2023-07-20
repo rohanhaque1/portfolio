@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Tangerine:wght@400;700&display=swap');
+
+.dark body {
+    background-color: #041423;
+}
+
+.customFont {
+    font-family: 'Tangerine', cursive;
+    font-weight: bold;
+}
+
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
