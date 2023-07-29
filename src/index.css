@@ -1,7 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Tangerine:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
 
 .dark body {
     background-color: #041423;
+    color: #ffffff;
+    font-size: 14px;
 }
 
 .customFont {
@@ -9,6 +12,9 @@
     font-weight: bold;
 }
 
+.italicFont {
+    font-family: 'Great Vibes', cursive;
+}
 
 
 @tailwind base;
